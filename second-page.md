@@ -1,3 +1,2 @@
-# Example Second Page
+# 什么是Minecraft服务器
 
-This is an example second page that will appear in the Docsify Sidebar.

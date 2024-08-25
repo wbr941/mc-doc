@@ -1,2 +1,2 @@
 - [前言](README)
-- [什么是Minecraft服务器](second-page)
+- [注册WeMC账号](second-page)

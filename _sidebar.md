@@ -1,2 +1,2 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [前言](README)
+- [什么是Minecraft服务器](second-page)

@@ -1,2 +1,3 @@
 - [前言](README)
 - [注册WeMC账号](second-page)
+- [测试](docs/third-page.md)

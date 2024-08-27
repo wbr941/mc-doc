@@ -1,5 +1,16 @@
 # WeMC.US.KG--致力于打造最全WeMC百科
+>本网站使用开源项目Docsify搭建 该网站非官方wiki
 
-> 本网站使用开源项目[Docsify](https://github.com/docsifyjs/docsify/)搭建
-该网站非官方wiki
+## ⚠️注意事项
+1. 搭建一个Minecraft 服务器需要一定的英语能力及计算机技能
+2. WeMC属于公益项目，因为使用人数较多，上传慢十分正常，若有能力，可以租用服务器自己开服
+3. 提问时请注意个人素质，在提问前，最好尝试自己解决
+
+## 🤔如何解决问题？
+您可以参考以下图片：（图片来自于网络）
+
+![1](https://image.wbr941.us.kg/file/5a0b84df7c9d94d06eb8f.png) 
+
+
+
 

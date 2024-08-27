@@ -8,3 +8,4 @@ Spigot服务端，是基于Minecraft原版服务端改进的插件服务端，�
 
 # 下载spigot服务端
 官网：https://getbukkit.org/download/spigot/
+![1](https://image.wbr941.us.kg/file/24ec7c2e2902ecfc0a9ab.png)

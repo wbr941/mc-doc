@@ -1,3 +1,3 @@
 - [前言](README)
 - [注册WeMC账号](docs/second-page)
-- [测试](docs/third-page)
+- [搭建spigot端服务器](docs/third-page)

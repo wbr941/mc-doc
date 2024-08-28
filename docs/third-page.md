@@ -22,3 +22,35 @@ Spigot服务端，是基于Minecraft原版服务端改进的插件服务端，�
 >苦力怕论坛服务端整合：https://klpbbs.com/forum-58-1.html
 
 >![3](https://image.wbr941.us.kg/file/9200cc4832ee51cf68db4.jpg)
+
+## 开始搭建
+1. 点击箭头方向的 **“Download ”** 下载您需要的版本的服务端，这里以1.8.8**为例**，您也可以下载自己想要的版本
+
+![4](https://image.wbr941.us.kg/file/b0f5daa15708cfd83d788.jpg)
+
+点击箭头方向的**文字**即可下载，请不要点错成下面的按钮
+
+![5](https://image.wbr941.us.kg/file/74b6e416a8368c62e85d3.jpg)
+
+
+>若您在下载时出现速度极慢的情况，可以使用上面提到的镜像站，但是还是请尽量使用官网。您可以使用多线程下载工具以提高速度（例如：IDM，NDM，Motrix，迅雷等）
+
+2.上传服务端至WeMC实例
+
+回到控用户中心的“我的实例”，点击箭头方向的“重置密码”
+
+https://www.wemc.cc/user/#/instance
+
+![6](https://image.wbr941.us.kg/file/90e9306b5dedc28de364d.jpg)
+
+在箭头方向输入新密码，这里建议您设置得长一些，复杂一些，设完请牢记您的新密码
+
+![7](https://image.wbr941.us.kg/file/602b1b2baffdd10053e29.jpg)
+
+然后点击上方的“面板地址”以进入控制台
+
+![8](https://image.wbr941.us.kg/file/49f20b4d4fbbb7da21894.jpg)
+
+
+
+

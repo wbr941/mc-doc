@@ -1,4 +1,4 @@
 - [前言](README)
-- [前言](docs/2-page.md)
+- [如何提问](docs/2-page.md)
 - [注册WeMC账号](docs/3-page)
 - [搭建spigot端服务器](docs/4-page)
